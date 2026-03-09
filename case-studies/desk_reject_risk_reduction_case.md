@@ -14,3 +14,8 @@ Team ran four-gate pre-submit system:
 - title and abstract aligned with evidence
 - figure story became easier to screen
 - submission package quality improved before first submit
+
+## References
+- guides/desk_reject_prevention_system.md
+- journals/playbooks/editorial_screening_checklist.md
+- templates/submission/claim_to_figure_map.csv

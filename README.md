@@ -100,3 +100,8 @@ See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
 
 ## Case studies and diagrams
 See `case-studies/` and `diagrams/` for worked examples and visual workflows.
+
+
+## Quickstart and learning paths
+- `quickstart/first_30_minutes.md`
+- `learning-paths/`
