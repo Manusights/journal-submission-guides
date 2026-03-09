@@ -1,19 +1,33 @@
-# Nejm Submission Guide
+# NEJM Submission Guide
 
-## Scope fit
-Short checklist for scope alignment and novelty threshold.
+## Journal profile
+- Primary audience: High-impact clinical audience
+- Editorial focus: Practice-changing or field-defining clinical evidence
+- Best use case: Submit when your evidence materially shifts clinical decision-making.
 
-## Formatting essentials
-- Article type requirements
-- Figure/table formatting baseline
-- Data and code availability requirements
+## What editors usually screen first
+1. Clinical impact and credibility
+2. Primary endpoint clarity
+3. Safety reporting quality
+4. Generalizability limits
 
-## Common reject triggers
-- Weak novelty framing
-- Evidence not matched to claim strength
-- Incomplete methods for replication
+## Practical pre-submission checks
+- Confirm endpoint hierarchy is explicit
+- Make adverse event reporting complete
+- Keep subgroup claims proportional to power and design
+- Separate firm findings from hypotheses
 
-## Submission prep checklist
-- Cover letter tailored to journal audience
-- Claim-to-evidence consistency pass complete
-- References verified
+## Common avoidable rejection patterns
+- Claims presented as definitive without adequate support
+- Safety reporting underdeveloped
+- Subgroup interpretation overextended
+
+## Submission package checklist
+- Endpoint and hierarchy summary table
+- Safety narrative aligned with results tables
+- Cover letter stating concrete practice relevance
+
+## Source and verification
+- Official journal page: https://www.nejm.org/author-center/new-manuscripts
+- Official links index: journals/expanded/sources/official_links.md
+- Last verified: 2026-03-09

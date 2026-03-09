@@ -1,19 +1,33 @@
-# Pnas Submission Guide
+# PNAS Submission Guide
 
-## Scope fit
-Short checklist for scope alignment and novelty threshold.
+## Journal profile
+- Primary audience: General science audience with domain depth
+- Editorial focus: Conceptual contribution supported by rigorous evidence
+- Best use case: Submit when your manuscript makes one clear conceptual advance.
 
-## Formatting essentials
-- Article type requirements
-- Figure/table formatting baseline
-- Data and code availability requirements
+## What editors usually screen first
+1. Significance framing in opening paragraphs
+2. Conceptual advance versus prior work
+3. Methods and analysis integrity
+4. Consistency between text claims and figures
 
-## Common reject triggers
-- Weak novelty framing
-- Evidence not matched to claim strength
-- Incomplete methods for replication
+## Practical pre-submission checks
+- Build a claim-to-evidence table for core conclusions
+- Verify consistency of terminology across sections
+- Keep significance statement concrete, not generic
+- Audit high-impact citations manually
 
-## Submission prep checklist
-- Cover letter tailored to journal audience
-- Claim-to-evidence consistency pass complete
-- References verified
+## Common avoidable rejection patterns
+- Valid data without a clear conceptual advance narrative
+- Inconsistent methods language across sections
+- Key controls are present but not emphasized
+
+## Submission package checklist
+- Concise significance framing
+- Coherent evidence map across main figures
+- Cover letter with specific conceptual contribution
+
+## Source and verification
+- Official journal page: https://www.pnas.org/author-center
+- Official links index: journals/expanded/sources/official_links.md
+- Last verified: 2026-03-09

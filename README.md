@@ -54,3 +54,20 @@ See:
 - `journals/field-specific/oncology_submission_notes.md`
 - `journals/field-specific/immunology_submission_notes.md`
 - `journals/response-letters/response_letter_blueprint.md`
+
+
+## Expanded journal set (deep guides)
+- Nature Medicine
+- Nature Biotechnology
+- Nature Communications
+- PNAS
+- JAMA
+- NEJM
+- BMJ
+- Clinical Cancer Research
+- Journal of Clinical Oncology
+- eLife
+- PLOS Biology
+- Frontiers in Immunology
+
+See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
