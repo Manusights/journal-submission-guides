@@ -96,3 +96,7 @@ See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
 ## Cornerstone guides
 - `guides/desk_reject_prevention_system.md`
 - `guides/revision_and_resubmission_execution_guide.md`
+
+
+## Case studies and diagrams
+See `case-studies/` and `diagrams/` for worked examples and visual workflows.
