@@ -91,3 +91,8 @@ See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
 - `faq/how_to_map_claims_to_figures_before_submit.md`
 - `faq/how_to_check_reference_integrity_quickly.md`
 - `faq/how_to_avoid_overclaiming_in_discussion.md`
+
+
+## Cornerstone guides
+- `guides/desk_reject_prevention_system.md`
+- `guides/revision_and_resubmission_execution_guide.md`
