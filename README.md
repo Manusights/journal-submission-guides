@@ -46,3 +46,11 @@ See:
 - `FACT_CHECKING.md`
 - `SOURCES.md`
 - `journals/official-sources/README.md`
+
+
+## New playbooks
+- `journals/playbooks/cover_letter_playbook.md`
+- `journals/playbooks/editorial_screening_checklist.md`
+- `journals/field-specific/oncology_submission_notes.md`
+- `journals/field-specific/immunology_submission_notes.md`
+- `journals/response-letters/response_letter_blueprint.md`
