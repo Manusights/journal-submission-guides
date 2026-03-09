@@ -11,7 +11,7 @@ Short scope summary and fit criteria.
 ## Common rejection reasons
 - Scope mismatch
 - Limited conceptual advance
-- Methods not robust enough
+- Methods not sufficiently rigorous
 - Insufficient validation
 
 ## Peer review process
