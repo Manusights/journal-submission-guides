@@ -36,3 +36,13 @@ This repository is actively maintained. Content refreshes are planned monthly.
 ## Contributing
 
 Suggestions are welcome through GitHub Issues and Pull Requests.
+
+
+## Accuracy policy
+
+This repo avoids unsourced acceptance rates and detailed policy claims unless tied to official journal documentation.
+
+See:
+- `FACT_CHECKING.md`
+- `SOURCES.md`
+- `journals/official-sources/README.md`

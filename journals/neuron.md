@@ -30,3 +30,7 @@ For current requirements, always check the official journal instructions page be
 - Journal guides hub: https://manusights.com/journal-guides
 - Resources library: https://manusights.com/resources
 - Expert review support: https://manusights.com
+
+## Official source
+- Requirements page: see     journals/official-sources/README.md
+- Last verified: 2026-03-09
