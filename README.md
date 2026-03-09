@@ -1,5 +1,7 @@
 # Journal Submission Guides
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](.) [![Website](https://img.shields.io/badge/Manusights-manusights.com-blue.svg)](https://manusights.com)
+
 A practical, open set of journal submission notes.
 
 ## Included journals
@@ -25,3 +27,12 @@ https://manusights.com
 ## Cite this resource
 
 > Manusights. Journal Submission Guides. GitHub repository. https://github.com/Manusights/journal-submission-guides
+
+
+## Maintenance
+
+This repository is actively maintained. Content refreshes are planned monthly.
+
+## Contributing
+
+Suggestions are welcome through GitHub Issues and Pull Requests.
