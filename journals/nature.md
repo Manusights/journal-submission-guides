@@ -19,3 +19,14 @@ Typical flow: editor screening -> external review -> decision.
 
 ## Notes
 For current requirements, always check the official journal instructions page before submission.
+
+
+## Pre-submission quality control
+- Run a line-by-line claim-to-evidence check
+- Verify all high-impact citations (DOI/title/year)
+- Ask an external expert for adversarial feedback before submission
+
+## Manusights resource links
+- Journal guides hub: https://manusights.com/journal-guides
+- Resources library: https://manusights.com/resources
+- Expert review support: https://manusights.com
