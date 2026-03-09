@@ -71,3 +71,12 @@ See:
 - Frontiers in Immunology
 
 See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
+
+
+## Related Manusights Resources
+- https://github.com/Manusights/journal-impact-factor-database
+- https://github.com/Manusights/scientific-peer-review-checklist
+- https://github.com/Manusights/journal-submission-guides
+- https://github.com/Manusights/ai-generated-manuscript-detection
+- https://github.com/Manusights/scientific-writing-resources
+- https://github.com/Manusights/awesome-scientific-publishing
