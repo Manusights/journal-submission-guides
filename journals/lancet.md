@@ -1,36 +1,26 @@
-# Lancet Submission Guide
+# The Lancet Submission Guide
 
-## Overview
-Short scope summary and fit criteria.
+## Quick fit check
+- Does your paper answer a question that matters to this journal's core audience?
+- Is the main claim supported by the strongest figure in the manuscript?
+- Can an editor understand the contribution from title + abstract alone?
 
-## Submission essentials
-- Article types and formatting
-- Data availability requirements
-- Reporting checklist expectations
+## What usually helps at screening
+- A clear novelty sentence in the opening paragraph
+- Methods that are detailed enough for replication
+- Figures that make the main claim obvious without extra explanation
 
-## Common rejection reasons
+## Common desk-reject patterns
 - Scope mismatch
-- Limited conceptual advance
-- Methods not sufficiently rigorous
-- Insufficient validation
+- Novelty framed too broadly or too weakly
+- Claims stronger than the evidence shown
+- Missing method detail in critical experiments
 
-## Peer review process
-Typical flow: editor screening -> external review -> decision.
-
-## Notes
-For current requirements, always check the official journal instructions page before submission.
-
-
-## Pre-submission quality control
-- Run a line-by-line claim-to-evidence check
-- Verify all high-impact citations (DOI/title/year)
-- Ask an external expert for adversarial feedback before submission
-
-## Manusights resource links
-- Journal guides hub: https://manusights.com/journal-guides
-- Resources library: https://manusights.com/resources
-- Expert review support: https://manusights.com
+## Before you submit
+- Run a claim-to-evidence pass for every major conclusion
+- Verify high-impact references (title, year, DOI)
+- Ask one external expert to challenge your central claim
 
 ## Official source
-- Requirements page: see     journals/official-sources/README.md
+- Requirements page: https://www.thelancet.com/lancet/information-for-authors
 - Last verified: 2026-03-09
