@@ -80,3 +80,14 @@ See `journals/expanded/` and `journals/expanded/sources/official_links.md`.
 - https://github.com/Manusights/ai-generated-manuscript-detection
 - https://github.com/Manusights/scientific-writing-resources
 - https://github.com/Manusights/awesome-scientific-publishing
+
+
+## FAQ
+- `faq/how_to_pick_primary_and_backup_journals.md`
+- `faq/how_to_write_a_cover_letter_that_editors_read.md`
+- `faq/how_to_reduce_desk_reject_risk.md`
+- `faq/how_to_handle_null_results_in_submission.md`
+- `faq/how_to_prepare_a_revision_letter.md`
+- `faq/how_to_map_claims_to_figures_before_submit.md`
+- `faq/how_to_check_reference_integrity_quickly.md`
+- `faq/how_to_avoid_overclaiming_in_discussion.md`
