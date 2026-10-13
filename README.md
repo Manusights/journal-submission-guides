@@ -16,7 +16,7 @@ Each guide includes scope, submission essentials, common rejection patterns, and
 
 ## About Manusights
 
-For pre-submission expert review support:
+For an AI pre-submission review of your manuscript:
 https://manusights.com
 
 
